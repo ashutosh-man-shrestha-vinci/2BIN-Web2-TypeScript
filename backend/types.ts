@@ -1,5 +1,15 @@
 import { Request } from "express";
 
+
+interface Book {
+  id: number;
+  title: string;
+  author: string;
+  publishedYear: number;
+  thumbnail?: string;
+}
+
+
 interface Pizza {
   id: number;
   title: string;
@@ -47,6 +57,8 @@ interface JwtPayload {
 }
 
 export type {
+  Book,
+
   Pizza,
   NewPizza,
   PizzaToUpdate,
