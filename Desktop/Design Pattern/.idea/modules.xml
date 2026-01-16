@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dp_03/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/dp_03/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen2020_Q1/Examen2020_Q1.iml" filepath="$PROJECT_DIR$/Examen2020_Q1/Examen2020_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen202_Q2/Examen202_Q2.iml" filepath="$PROJECT_DIR$/Examen202_Q2/Examen202_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_01/dp_01.iml" filepath="$PROJECT_DIR$/dp_01/dp_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_02/dp_02.iml" filepath="$PROJECT_DIR$/dp_02/dp_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_03/dp_03.iml" filepath="$PROJECT_DIR$/dp_03/dp_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_04/dp_04.iml" filepath="$PROJECT_DIR$/dp_04/dp_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_05/dp_05.iml" filepath="$PROJECT_DIR$/dp_05/dp_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp_06/dp_06.iml" filepath="$PROJECT_DIR$/dp_06/dp_06.iml" />
+    </modules>
+  </component>
+</project>
